@@ -1,5 +1,5 @@
 # Esperienze di elettronica digitale
-Collezione di esperienze didattiche di elettronica digitale realizzate mediante l'uso di apposite schede funzione modulari.
+Collezione di esperienze didattiche di elettronica digitale realizzate mediante l'uso di schede logiche modulari.
 
 ![image](images/overview.jpg)
 
@@ -9,21 +9,22 @@ Collezione di esperienze didattiche di elettronica digitale realizzate mediante 
 
 
 ## Schede funzione
-Una scheda funzione è un circuito che realizza una determinata funzione digitale semplice.
-Il particolare profilo con cui sono disegnate le schede, le rende innestabili su una qualunque breadboard in un modo che più schede, opportunamente collegate tra loro, possano essere composte insieme, a realizzare sistemi digitali anche complessi.
+Una scheda funzione è un circuito che realizza una determinata funzione logica semplice.
+Collegando opportunamete tra loro le schede, le relative funzioni possono essere composte insieme, a realizzare sistemi digitali via via più complessi.
 Le schede funzione sono contrassegnate con la sigla *SF* seguita da un progressivo che ne identifica il tipo:
-- [SF-01](schede/sf-01/) : scheda funzione di alimentazione stabilizzata a +5V
-- [SF-02](schede/sf-02/) : scheda funzione 4 linee logiche momentanee
-- [SF-03](schede/sf-03/) : scheda funzione 4 linee logiche permanenti
-- [SF-04](schede/sf-04/) : scheda funzione 4 indicatori di livello linea a LED
+- [SF-01](schede/sf-01/) : scheda funzione di alimentazione schede
+- [SF-02](schede/sf-02/) : scheda funzione generatore linee logiche momentanee
+- [SF-03](schede/sf-03/) : scheda funzione generatore linee logiche permanenti
+- [SF-04](schede/sf-04/) : scheda funzione indicatore a LED di livello logico linee
 - [SF-05](schede/sf-05/) : scheda funzione display 7-segmenti
 - [SF-06](schede/sf-06/) : scheda funzione generatore di inpulso
 - [SF-07](schede/sf-07/) : scheda funzione generatore di clock
+- [SF-20](schede/sf-20/) : scheda funzione distribuzione di alimentazione schede
 
 
 ## Esperienze
 Ogni esperienza è suddivisa in 3 parti:
-- **preparazione**: dove viene indicato l'elenco delle schede funzione necessarie, il modo in cui collegarle alla breadboard, e su questa i collegameti necessari all'esecuzione dell'esperienza.
+- **preparazione**: dove viene indicato l'elenco delle schede funzione necessarie, e tutti i collegamenti da effettuare per esecuzione dell'esperienza.
 - **esecuzione** : dove si indicano i passi da compiere per l'esecuzione dell'esperienza.
 - **conclusioni** : dove vengono discussi i risultati ottenuti e vengono proposti eventuali spunti di approfondimento.
 
