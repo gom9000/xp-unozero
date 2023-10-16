@@ -1,5 +1,5 @@
 # Scheda funzione di alimentazione schede
-E' il modulo che fornisce la tensione stabilizzata +5V necessaria al funzionamento di tutte le schede.
+E' il modulo che fornisce la tensione stabilizzata necessaria al funzionamento di tutte le schede.
 Funziona con un qualunque alimentatore esterno la cui tensione di uscita sia compresa tra +9V a +12V, stabilizzati o meno, e fornisce in uscita +5v stabilizzati, ed una corrente massima di circa 200mA.
 
 ![sf-built](sf-01_built.jpg)

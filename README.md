@@ -19,7 +19,6 @@ Le schede funzione sono contrassegnate con la sigla *SF* seguita da un progressi
 - [SF-05](schede/sf-05/) : scheda funzione display 7-segmenti
 - [SF-06](schede/sf-06/) : scheda funzione generatore di inpulso
 - [SF-07](schede/sf-07/) : scheda funzione generatore di clock
-- [SF-20](schede/sf-20/) : scheda funzione distribuzione di alimentazione schede
 
 
 ## Esperienze
