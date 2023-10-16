@@ -1,15 +1,15 @@
 # Scheda funzione indicatore a LED di livello logico linee
 Modulo indicatore di livello logico di 4 linee tramite LED.
 
-![sf-built](sf-05_built.jpg)
+![sf-built](sf-04_built.jpg)
 
 
 ## Schema elettrico
-![sf-schematic](sf-05_sch.jpg)
+![sf-schematic](sf-04_sch.jpg)
 
 
 ## PCB
-![sf-pcb](sf-05_pcb.jpg)
+![sf-pcb](sf-04_pcb.jpg)
 
 
 ## Materiale occorrente
