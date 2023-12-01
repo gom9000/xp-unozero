@@ -37,9 +37,8 @@ Vedere il file [CHANGES](CHANGES.md) per la storia delle modifiche al progetto r
 
 
 ## Informazioni
-Autore : Alessandro Fraschetti (mail: [gos95@gommagomma.net](mailto:gos95@gommagomma.net))
-
-Ringraziamenti: un particolare ringraziamento va agli autori D.G.Larsen e P.R.Rony, che già a fine anni '70 idearono e realizzarono la collana di libri "Bugbook", da cui questo progetto prende evidentemente spunto.
+**Autore:** Alessandro Fraschetti (mail: [gos95@gommagomma.net](mailto:gos95@gommagomma.net))
+**Ringraziamenti:** un particolare ringraziamento va agli autori D.G.Larsen e P.R.Rony, che già a fine anni '70 idearono e realizzarono la collana di libri "Bugbook", da cui questo progetto prende evidentemente spunto.
 
 
 ## Licenza

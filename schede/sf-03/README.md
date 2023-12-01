@@ -1,4 +1,4 @@
-# Scheda funzione generatore logiche permanenti
+# Scheda funzione generatore linee logiche permanenti
 Modulo per generare 4 linee logiche permanenti mediante l'utilizzo di interruttori di attivazione/disattivazione, contrassegnati con: SW1, SW2, SW3, SW4. 
 Gli switch attivano ognuno una linea dati logica, contrassegnata a seconda dello switch a cui fa riferimento con: D1, D2, D3, D4. 
 Le linee possono trovarsi in uno dei due stati:
