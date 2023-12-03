@@ -1,7 +1,7 @@
 # Esperienze di elettronica digitale
 Collezione di esperienze didattiche di elettronica digitale realizzate mediante l'uso di schede logiche modulari.
 
-![image](images/overview.jpg)
+![image](overview.jpg)
 
 
 ## Premessa
@@ -19,6 +19,7 @@ Le schede funzione sono contrassegnate con la sigla *SF* seguita da un progressi
 - [SF-05](schede/sf-05/) : scheda funzione display 7-segmenti
 - [SF-06](schede/sf-06/) : scheda funzione generatore di inpulso
 - [SF-07](schede/sf-07/) : scheda funzione generatore di clock
+- [SF-08](schede/sf-08/) : scheda funzione distrubuzione di linee dati
 
 
 ## Esperienze
