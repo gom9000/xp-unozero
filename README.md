@@ -5,7 +5,7 @@ Collezione di esperienze didattiche di elettronica digitale realizzate mediante 
 
 
 ## Premessa
-...descrizione estesa... a chi è rivolto (duplice obiettivo: realizzare le schede ed imparare la logica dell'elettronica digitale senza biogno di conoscere la fisica e matemantica che c'è sotto), perchè...
+...descrizione estesa... a chi è rivolto (duplice obiettivo: realizzare le schede ed imparare la logica dell'elettronica digitale senza biogno di conoscere la fisica e matematica che c'è sotto), perchè...
 
 
 ## Schede funzione
@@ -19,13 +19,13 @@ Le schede funzione sono contrassegnate con la sigla *SF* seguita da un progressi
 - [SF-05](schede/sf-05/) : scheda funzione display 7-segmenti
 - [SF-06](schede/sf-06/) : scheda funzione generatore di inpulso
 - [SF-07](schede/sf-07/) : scheda funzione generatore di clock
-- [SF-08](schede/sf-08/) : scheda funzione distrubuzione di linee dati
+- [SF-08](schede/sf-08/) : scheda funzione distribuzione di linee dati
 
 
 ## Esperienze
 Ogni esperienza è suddivisa in 3 parti:
-- **preparazione**: dove viene indicato l'elenco delle schede funzione necessarie, e tutti i collegamenti da effettuare per esecuzione dell'esperienza.
-- **esecuzione** : dove si indicano i passi da compiere per l'esecuzione dell'esperienza.
+- **preparazione**: dove viene indicato l'elenco delle schede funzione necessarie, e tutti i collegamenti da effettuare per eseguire l'esperienza.
+- **esecuzione** : dove si indicano i passi da compiere durante l'esperienza.
 - **conclusioni** : dove vengono discussi i risultati ottenuti e vengono proposti eventuali spunti di approfondimento.
 
 Di seguito l'elenco delle esperienze finora raccolte:
@@ -39,6 +39,7 @@ Vedere il file [CHANGES](CHANGES.md) per la storia delle modifiche al progetto r
 
 ## Informazioni
 **Autore:** Alessandro Fraschetti (mail: [gos95@gommagomma.net](mailto:gos95@gommagomma.net))
+
 **Ringraziamenti:** un particolare ringraziamento va agli autori D.G.Larsen e P.R.Rony, che già a fine anni '70 idearono e realizzarono la collana di libri "Bugbook", da cui questo progetto prende evidentemente spunto.
 
 
