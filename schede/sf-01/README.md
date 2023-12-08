@@ -14,7 +14,7 @@ Funziona con un qualunque alimentatore esterno la cui tensione di uscita sia com
 
 
 ## Materiale occorrente
-- [x] paperboard millefori 4x6cm
+- [x] paperboard 4x6cm
 - [x] connettore di alimentazione 5.1mm
 - [x] resistenza di limitazione corrente LED 1Kohm
 - [x] LED verde per stato on/off

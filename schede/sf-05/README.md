@@ -13,7 +13,7 @@ Modulo con ingresso binario BCD che pilota un display 7-segmenti ad una cifra.
 
 
 ## Materiale occorrente
-- [x] paperboard doppia-faccia 4x6cm
+- [x] paperboard 4x6cm
 - [x] 8x resistenze 1Kohm
 - [x] display 7-Segmenti ad anodo comune TDSL5150
 - [x] IC 74LS47 BCD to 7-Segment Decoder/Driver

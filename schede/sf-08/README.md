@@ -13,5 +13,5 @@ Modulo di distribuzione delle linee dati.
 
 
 ## Materiale occorrente
-- [x] paperboard doppia-faccia 2x8cm
+- [x] paperboard 2x8cm
 - [x] 6x 4-pin connettore linee dati tipo Molex-KK o KF2510 4P

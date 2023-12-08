@@ -22,7 +22,7 @@ La scheda è progettata con logica "active-low", in modo tale che quando uno int
 
 
 ## Materiale occorrente
-- [x] paperboard doppia-faccia 4x6cm
+- [x] paperboard 4x6cm
 - [x] 4x interruttori microswitch SPST (on/off)
 - [x] 4x resistenze di pull-up 47Kohm
 - [x] 4x resistenze di pull-down 100ohm

@@ -1,5 +1,5 @@
 # Scheda funzione indicatore a LED di livello logico linee
-Modulo indicatore di livello logico di 4 linee tramite LED.
+Modulo indicatore a LED di livello logico di 4 linee.
 
 ![sf-built](sf-04_built.jpg)
 
@@ -13,7 +13,7 @@ Modulo indicatore di livello logico di 4 linee tramite LED.
 
 
 ## Materiale occorrente
-- [x] paperboard doppia-faccia 4x6cm
+- [x] paperboard 4x6cm
 - [x] 4x resistenze 1Kohm
 - [x] 4x LED verdi
 - [x] IC 74LS00 Quadruple 2-input negative-and gate

@@ -5,7 +5,7 @@ Collezione di esperienze didattiche di elettronica digitale realizzate mediante 
 
 
 ## Premessa
-...descrizione estesa... a chi è rivolto (duplice obiettivo: realizzare le schede ed imparare la logica dell'elettronica digitale senza biogno di conoscere la fisica e matematica che c'è sotto), perchè...
+...descrizione estesa... a chi è rivolto (duplice obiettivo: realizzare le schede ed imparare la logica dell'elettronica digitale senza bisogno di conoscere la fisica e matematica che c'è sotto), perchè...
 
 
 ## Schede funzione
@@ -17,7 +17,7 @@ Le schede funzione sono contrassegnate con la sigla *SF* seguita da un progressi
 - [SF-03](schede/sf-03/) : scheda funzione generatore linee logiche permanenti
 - [SF-04](schede/sf-04/) : scheda funzione indicatore a LED di livello logico linee
 - [SF-05](schede/sf-05/) : scheda funzione display 7-segmenti
-- [SF-06](schede/sf-06/) : scheda funzione generatore di inpulso
+- [SF-06](schede/sf-06/) : scheda funzione generatore di impulsi
 - [SF-07](schede/sf-07/) : scheda funzione generatore di clock
 - [SF-08](schede/sf-08/) : scheda funzione distribuzione di linee dati
 

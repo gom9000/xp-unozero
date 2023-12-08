@@ -22,7 +22,7 @@ La scheda è progettata con logica "active-low", in modo tale che quando uno swi
 
 
 ## Materiale occorrente
-- [x] paperboard doppia-faccia 4x6cm
+- [x] paperboard 4x6cm
 - [x] 4x pulsanti microswitch SPST (normalmente aperti)
 - [x] 4x resistenze di pull-up 47Kohm
 - [x] 4x resistenze di pull-down 100ohm
