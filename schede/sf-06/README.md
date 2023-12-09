@@ -22,7 +22,7 @@ La scheda è progettata con logica "active-low", in modo tale che l'uscita è se
 - [x] 2x resistenze di pull-up 47Kohm
 - [x] 2x resistenze di pull-up 22Kohm
 - [x] 2x resistenze di pull-down 100ohm
-- [x] IC 74LS00 Quadruple 2-input negative-or gate
+- [x] 2x IC 74LS02 Quadruple 2-input negative-or gate
 - [x] 4 x condensatori 100nF
 - [x] 2 x condensatori 1uF
-- [x] 2 x 2-pin connettore alimentazione scheda tipo Molex-KK o KF2510 2P
+- [x] 2 x 2-pin connettore scheda tipo Molex-KK o KF2510 2P

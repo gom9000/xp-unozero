@@ -20,6 +20,7 @@ Le schede funzione sono contrassegnate con la sigla *SF* seguita da un progressi
 - [SF-06](schede/sf-06/) : scheda funzione generatore di impulsi
 - [SF-07](schede/sf-07/) : scheda funzione generatore di clock
 - [SF-08](schede/sf-08/) : scheda funzione distribuzione di linee dati
+- [SF-09](schede/sf-09/) : scheda funzione contatore modulo 10
 
 
 ## Esperienze
