@@ -21,9 +21,10 @@ La scheda è progettata per ricevere impulsi (di clock e reset) con logica "acti
 
 ## Materiale occorrente
 - [x] paperboard 4x6cm
-- [x] 2x resistenze di polarizzazione 10Kohm
-- [x] 2x resistenze di polarizzazione 4k7ohm
-- [x] 2x IC 74LS90 Decade counter
-- [x] 2 x condensatori 100nF
+- [x] resistenza di polarizzazione 100ohm
+- [x] 2x resistenze di polarizzazione 47Kohm
+- [x] transistor generico NPN
+- [x] IC 74LS90 Decade counter
+- [x] condensatori 100nF
 - [x] 3 x 2-pin connettore scheda tipo Molex-KK o KF2510 2P
 - [x] 4-pin connettore linee dati tipo Molex-KK o KF2510 2P
