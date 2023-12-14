@@ -1,7 +1,7 @@
 # Scheda funzione generatore di clock
-Modulo generatore di segnale periodico di frequenza selezionabile, tramite jumper, tra circa 1Hz e circa .5Hz.
+Modulo generatore di segnale periodico quadrato di frequenza selezionabile.
 
-Il jumper JA seleziona in uscita un segnale quadrato di frequenza circa 1Hz, mentre il jumpre Jb circa .5Hz.
+Il jumper JA seleziona in uscita un segnale di frequenza circa 1Hz, mentre JB seleziona una frequenza di circa .5Hz.
 
 ![sf-built](sf-07_built.jpg)
 
