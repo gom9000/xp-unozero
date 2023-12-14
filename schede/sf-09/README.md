@@ -1,6 +1,7 @@
 # Scheda funzione contatore modulo 10
 Modulo contatore decimale di impulsi di clock in ingresso.
 Il conteggio viene presentato in formato BCD sulla linea dati di uscita. E' presente un ingresso di reset, attivo basso, che azzera il conteggio.
+
 Per permettere il collegamento in cascata di più contatori, e quindi riuscire a contare con più cifre decimali,
 in uscita viene riportata una linea di controllo costituita dai segnali: 
 - riporto o carry: attivo sul fronte di discesa, che indica che il contatore è arrivato a contare 10
