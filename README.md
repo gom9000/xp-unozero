@@ -16,7 +16,7 @@ Le schede funzione sono contrassegnate con la sigla *SF* seguita da un progressi
 - [SF-02](schede/sf-02/) : scheda funzione generatore linee logiche momentanee
 - [SF-03](schede/sf-03/) : scheda funzione generatore linee logiche permanenti
 - [SF-04](schede/sf-04/) : scheda funzione indicatore a LED di livello logico linee
-- [SF-05](schede/sf-05/) : scheda funzione display 7-segmenti
+- [SF-05](schede/sf-05/) : scheda funzione display 7-segmenti di linee BCD
 - [SF-06](schede/sf-06/) : scheda funzione generatore di impulsi
 - [SF-07](schede/sf-07/) : scheda funzione generatore di clock
 - [SF-08](schede/sf-08/) : scheda funzione distribuzione di linee dati
@@ -30,8 +30,11 @@ Ogni esperienza è suddivisa in 3 parti:
 - **conclusioni** : dove vengono discussi i risultati ottenuti e vengono proposti eventuali spunti di approfondimento.
 
 Di seguito l'elenco delle esperienze finora raccolte:
-- [esperienza 01](esperienze/esperienza-01.md) : .....
-- [esperienza 02](esperienze/esperienza-02.md) : .....
+- [esperienza 01](esperienze/esperienza-01.md) : rappresentazione stato logico alto/basso tramite LED
+- [esperienza 02](esperienze/esperienza-02.md) : rappresentazione stato logico alto/basso tramite display BCD
+- [esperienza 03](esperienze/esperienza-03.md) : contatore di impulsi
+- [esperienza 04](esperienze/esperienza-04.md) : contatore di impulsi in cascata
+- [esperienza 03](esperienze/esperienza-05.md) : contatore di impulsi di clock
 
 
 ## Storia del progetto

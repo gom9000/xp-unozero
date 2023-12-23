@@ -1,4 +1,4 @@
-# Scheda funzione display 7-segmenti
+# Scheda funzione display 7-segmenti BCD
 Modulo con ingresso binario BCD che pilota un display 7-segmenti ad una cifra.
 
 ![sf-built](sf-05_built.jpg)
